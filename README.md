@@ -1,4 +1,4 @@
-                                                                                         ## DSA_with_python
+## DSA_with_python
 # Steps to solve a problem
 1. State the problem clearly. Identify the input & output formats.
 2. Come up with some example inputs & outputs. Try to cover all edge cases.
